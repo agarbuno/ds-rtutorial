@@ -1,0 +1,61 @@
+Rtutorial
+========================================================
+author: Alfredo Garbuno
+date: 30 January 2017
+autosize: true
+transition: concave
+transition-speed: slow
+css: custom.css
+
+First Slide
+========================================================
+class: illustration
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+My Exclamation
+========================================
+Is this OK? Really?  
+~~this text will be red~~
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Code Only Slide
+====================================
+```{r, eval=FALSE}
+summary(cars)
+```
+
+Output Only Slide
+====================================
+```{r, echo=FALSE}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+left: 70%
+
+```{r, echo=FALSE}
+plot(cars)
+```
+*** 
+Hello all!
+
+
+Slide With Image Left
+====================================
+left: 70%
+
+![alt text](img/448.jpg)
+***
+This text will appear to the right
+
