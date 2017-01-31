@@ -1,11 +1,17 @@
 Rtutorial
 ========================================================
 author: Alfredo Garbuno
-date: 30 January 2017
 autosize: true
 transition: concave
 transition-speed: slow
 css: custom.css
+
+<small> 
+3rd Year Phd Student  
+School of Engineering  
+Institute for Risk and Uncertainty  
+University of Liverpool 
+</small>
 
 First Slide
 ========================================================
@@ -57,5 +63,5 @@ left: 70%
 
 ![alt text](img/448.jpg)
 ***
-This text will appear to the right
+There is more!
 
