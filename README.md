@@ -1,2 +1,2 @@
 # ds-rtutorial
-Tutorial for R programming in Data Science environment
+Tutorial for R programming in a Data Science environment
