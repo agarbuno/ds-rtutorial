@@ -22,7 +22,7 @@ Is this OK? Really?
 ~~this text will be red~~
 
 Slide With Code
-========================================================
+===================================
 
 
 ```r
@@ -60,7 +60,7 @@ Output Only Slide
 ```
 
 Slide With Plot
-========================================================
+====================================
 left: 70%
 
 ![plot of chunk unnamed-chunk-4](rtutorial-presv2-figure/unnamed-chunk-4-1.png)
